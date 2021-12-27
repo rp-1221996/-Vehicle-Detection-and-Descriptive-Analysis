@@ -76,3 +76,5 @@ Figure 11: Hourly time in minutes.
 3)	Satya Mallick, Object tracking using Open CV, Article Learn Open CV, 159 comments, February 2017.
 4)	Ayush Gupta, Getting started with object tracking library, Analytics Vidhya Journal, Data Science Blogathon, August 2021.
 5)	I. Benarji, Graphical User Interface, 	Advance Technology Industrial, 24th European Symposium on Computer Vision, 2017
+
+Web App: https://share.streamlit.io/surjitsingh790/streamlit-front-end/main/Testapp.py
